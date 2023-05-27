@@ -25,3 +25,4 @@ The goal of ft_transcendence is to create an online gaming platform that allows 
 - Challenges
 
 ## Contributors
+[![](https://avatars.githubusercontent.com/u/91759472?v=4?size=50)](https://github.com/csalihburak)
