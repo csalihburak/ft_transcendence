@@ -17,7 +17,7 @@ The goal of ft_transcendence is to create an online gaming platform that allows 
 
 ## Contributors
 <div style="display: flex; justify-content: space-evenly; ">
-  <a href="https://github.com/csalihburak" style="text-align: center; display: inline-grid; padding-right: 60px">
+  <a href="https://github.com/csalihburak" style="text-align: center; display: inline-grid;">
     <img src="https://avatars.githubusercontent.com/u/91759472?v=4" width="120" style={{borderRadius: '50%'}} />
     <br />
     <sub>Salih Burak Çoşkun</sub> 
