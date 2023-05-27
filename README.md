@@ -14,8 +14,8 @@ The goal of ft_transcendence is to create an online gaming platform that allows 
 - Chat functionality
 - User profiles and avatars
 - Challenges
-
-## Contributors
+## Contents
+<video src="https://github.com/csalihburak/test/blob/main/content/chat.mp4"></video>
 
 ## Contributors
 - [Salih Burak Çoşkun](https://github.com/csalihburak)
