@@ -16,21 +16,9 @@ The goal of ft_transcendence is to create an online gaming platform that allows 
 - Challenges
 
 ## Contributors
-<div style="display: flex; justify-content: space-evenly; ">
-  <a href="https://github.com/csalihburak" style="text-align: center; display: inline-grid;">
-    <img src="https://avatars.githubusercontent.com/u/91759472?v=4" width="120" style={{borderRadius: '50%'}} />
-    <br />
-    <sub>Salih Burak Çoşkun</sub> 
-  </a>
-  <a href="https://github.com/egulerr">
-    <img src="https://avatars.githubusercontent.com/u/102732612?v=4" style="width:120px" />
-    <br />
-    <sub>Eyüp Güler</sub>
-  </a>
-  <a href="https://github.com/Mertflixs">
-    <img src="https://avatars.githubusercontent.com/u/98750319?v=4" width="120" style={{borderRadius: '50%'}} />
-    <br />
-    <sub>Mert Alaşahan</sub>
-  </a> 
-</div>
+
+## Contributors
+- [Salih Burak Çoşkun](https://github.com/csalihburak)
+- [Eyüp Güler](https://github.com/egulerr)
+- [Mert Alaşahan](https://github.com/mertflixs)
 
