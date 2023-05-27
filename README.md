@@ -15,8 +15,16 @@ The goal of ft_transcendence is to create an online gaming platform that allows 
 - User profiles and avatars
 - Challenges
 ## Contents
-<video src="https://github.com/csalihburak/test/blob/main/content/chat.mp4"></video>
-
+### Profile
+  <img src="https://github.com/csalihburak/test/blob/main/content/profile.gif"></img>
+### Chat
+  <img src="https://github.com/csalihburak/test/blob/main/content/chat.gif"></img>
+### Game
+  <img src="https://github.com/csalihburak/test/blob/main/content/game.gif"></img> 
+### Twitter
+  <img src="https://github.com/csalihburak/test/blob/main/content/twitter.gif"></img>
+### Leaderboard
+  <img src="https://github.com/csalihburak/test/blob/main/content/leaderboard.gif"></img>
 ## Contributors
 - [Salih Burak Çoşkun](https://github.com/csalihburak)
 - [Eyüp Güler](https://github.com/egulerr)
